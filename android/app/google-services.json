@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "845101561955",
+    "project_id": "lokanusantara-671f1",
+    "storage_bucket": "lokanusantara-671f1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845101561955:android:f1e1f749b4fe4e07aaa056",
+        "android_client_info": {
+          "package_name": "com.codebasedigital.lokanusantara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845101561955-rgjlr2pnn918nguue0rued8qh4ope3t0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codebasedigital.lokanusantara",
+            "certificate_hash": "6987633affc57deb6648ec499102ddc2d80d531e"
+          }
+        },
+        {
+          "client_id": "845101561955-lv4r7q36i1o564pq45m1c1cnfo7gjjb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtxxvGgZAK-4yEBvMFgXoHzuJInpmHRVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845101561955-lv4r7q36i1o564pq45m1c1cnfo7gjjb3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "845101561955-hidkvgbk6h1d9c8t1tr2h6gclnbjgsf7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codebasedigital.lokanusantara"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845101561955:android:2983b61206a55c8aaaa056",
+        "android_client_info": {
+          "package_name": "id.semotif.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845101561955-03a8cc1uo8m35metl4nguqckq7tjmemd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.semotif.mobile",
+            "certificate_hash": "6987633affc57deb6648ec499102ddc2d80d531e"
+          }
+        },
+        {
+          "client_id": "845101561955-lv4r7q36i1o564pq45m1c1cnfo7gjjb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtxxvGgZAK-4yEBvMFgXoHzuJInpmHRVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845101561955-lv4r7q36i1o564pq45m1c1cnfo7gjjb3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "845101561955-hidkvgbk6h1d9c8t1tr2h6gclnbjgsf7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codebasedigital.lokanusantara"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

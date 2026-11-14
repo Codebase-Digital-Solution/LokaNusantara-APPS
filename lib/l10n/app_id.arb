@@ -1,0 +1,567 @@
+{
+  "@@locale": "id",
+  "appTitle": "LokaNusantara",
+  "language": "Bahasa",
+  "chooseLanguage": "Pilih Bahasa",
+  "followSystem": "Ikuti bahasa perangkat",
+  "contentLanguageNote": "Nama tempat, deskripsi, dan agenda dari server tetap dalam Bahasa Indonesia.",
+  "commonCancel": "Batal",
+  "commonRetry": "Coba lagi",
+  "commonSave": "Simpan",
+  "commonClose": "Tutup",
+  "commonSeeAll": "Lihat semua",
+  "errorNetwork": "Koneksi jaringan gagal",
+  "errorNotFound": "Data tidak ditemukan",
+  "errorUnauthorized": "Akses tidak diizinkan",
+  "errorValidation": "Validasi gagal",
+  "errorServer": "Terjadi kesalahan pada server",
+  "errorUnknown": "Terjadi kesalahan",
+  "catTradisi": "Tradisi",
+  "catPura": "Pura",
+  "catMasjid": "Masjid",
+  "catGereja": "Gereja",
+  "catVihara": "Vihara",
+  "catKlenteng": "Klenteng",
+  "catKuliner": "Kuliner",
+  "catOther": "Lainnya",
+  "etqGeneral1": "Berpakaian sopan dan jaga ketenangan.",
+  "etqGeneral2": "Minta izin sebelum memotret warga atau kegiatan adat.",
+  "etqGeneral3": "Ikuti aturan dan arahan pengelola setempat.",
+  "etqTradisi1": "Minta izin sebelum memotret warga, rumah, atau upacara adat.",
+  "etqTradisi2": "Ikuti aturan desa adat dan arahan pemandu setempat.",
+  "etqTradisi3": "Jangan menyentuh atau melangkahi benda dan sesajen sakral.",
+  "etqTradisi4": "Kenakan pakaian sopan; beberapa area mewajibkan kamen dan selendang.",
+  "etqTradisi5": "Tiket dan donasi membantu pelestarian adat, gunakan pemandu lokal bila ada.",
+  "etqPura1": "Kenakan kamen (sarung) dan selendang di pinggang; biasanya bisa dipinjam di pintu masuk.",
+  "etqPura2": "Perempuan yang sedang haid tidak diperkenankan memasuki area suci.",
+  "etqPura3": "Jangan memanjat, duduk di, atau bersandar pada bangunan suci.",
+  "etqPura4": "Jangan berjalan di depan umat yang sedang bersembahyang.",
+  "etqPura5": "Hindari menginjak canang (sesajen) di jalan dan halaman pura.",
+  "etqMasjid1": "Berpakaian sopan dan menutup aurat; perempuan mengenakan kerudung.",
+  "etqMasjid2": "Lepas alas kaki sebelum memasuki area salat.",
+  "etqMasjid3": "Hindari berkunjung saat salat berjamaah, kecuali untuk beribadah.",
+  "etqMasjid4": "Jaga ketenangan dan jangan melintas di depan orang yang sedang salat.",
+  "etqGereja1": "Berpakaian sopan, menutup bahu dan lutut.",
+  "etqGereja2": "Jaga ketenangan, terutama saat misa atau ibadah berlangsung.",
+  "etqGereja3": "Minta izin sebelum memotret interior saat ada ibadah.",
+  "etqVihara1": "Berpakaian sopan, menutup bahu dan lutut.",
+  "etqVihara2": "Lepas alas kaki sebelum memasuki ruang puja (Dhammasala).",
+  "etqVihara3": "Jangan menyentuh rupang Buddha atau berfoto membelakanginya.",
+  "etqVihara4": "Jaga ketenangan di area meditasi.",
+  "etqKlenteng1": "Berpakaian sopan dan jaga ketenangan.",
+  "etqKlenteng2": "Jangan menyentuh altar, rupang, dan perlengkapan sembahyang.",
+  "etqKlenteng3": "Minta izin sebelum memotret umat yang sedang bersembahyang.",
+  "etqKlenteng4": "Saat Imlek dan Cap Go Meh suasana sangat ramai, datanglah lebih awal.",
+  "etqKuliner1": "Banyak warung tradisional buka sejak pagi dan tutup saat hidangan habis.",
+  "etqKuliner2": "Beberapa hidangan Bali mengandung babi; tanyakan bila Anda memerlukan makanan halal.",
+  "etqKuliner3": "Sambal matah dan betutu cukup pedas, minta tingkat pedas sesuai selera.",
+  "etqKuliner4": "Siapkan uang tunai, tidak semua warung menerima pembayaran nontunai.",
+  "dateToday": "Hari ini",
+  "dateOngoing": "Sedang berlangsung",
+  "datePast": "Sudah lewat",
+  "dateTomorrow": "Besok",
+  "dateInDays": "Dalam {count} hari",
+  "@dateInDays": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "dateInWeeks": "Dalam {count} minggu",
+  "@dateInWeeks": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "dateInMonths": "Dalam {count} bulan",
+  "@dateInMonths": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "homeDestinations": "Destinasi",
+  "homeSeeAllCount": "Lihat semua {count} destinasi",
+  "@homeSeeAllCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "homeAllDestinations": "Semua Destinasi",
+  "homeSearchHint": "Cari destinasi atau daerah...",
+  "homeDestinationCount": "{count} destinasi",
+  "@homeDestinationCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "homeNoMatch": "Tidak ada destinasi yang cocok.",
+  "homeTagline": "Temukan tradisi, rumah ibadah, dan kuliner khas Bali",
+  "homeCategoryAll": "Semua",
+  "homeNotFound": "Destinasi tidak ditemukan",
+  "mapRouteUnavailableTitle": "Rute Tidak Tersedia",
+  "mapRouteUnavailableBody": "Tidak ada rute yang ditemukan untuk mode transportasi ini.",
+  "mapRouteFailedTitle": "Gagal",
+  "mapRouteFailedBody": "Tidak dapat mengambil rute. Periksa koneksi internet.",
+  "mapClose": "Tutup peta",
+  "mapMyLocation": "Lokasi saya",
+  "mapReload": "Muat ulang",
+  "mapZoomIn": "Perbesar",
+  "mapZoomOut": "Perkecil",
+  "mapPreparing": "Menyiapkan peta",
+  "mapLoadingNearby": "Memuat destinasi di sekitarmu",
+  "mapTrailSummary": "{count} titik singgah, sekitar {km} km",
+  "@mapTrailSummary": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "km": {
+        "type": "int"
+      }
+    }
+  },
+  "mapCloseTrail": "Tutup jalur",
+  "shellHome": "Beranda",
+  "shellSaved": "Tersimpan",
+  "shellAgenda": "Agenda",
+  "shellProfile": "Profil",
+  "shellOpenMap": "Buka peta",
+  "shellMap": "Peta",
+  "splashTagline": "Jelajahi tradisi Nusantara",
+  "notifTitle": "Notifikasi",
+  "notifWindow": "Agenda budaya dalam {days} hari ke depan",
+  "@notifWindow": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "notifEstimatedDate": "Tanggal perkiraan, bisa berubah",
+  "notifEmptyTitle": "Belum ada notifikasi",
+  "notifEmptyBody": "Agenda budaya yang akan berlangsung dalam {days} hari ke depan akan muncul di sini.",
+  "@notifEmptyBody": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "trailTitle": "Jalur Kisah",
+  "trailStopCount": "{count} titik singgah",
+  "@trailStopCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "trailAboutKm": "sekitar {km} km",
+  "@trailAboutKm": {
+    "placeholders": {
+      "km": {
+        "type": "int"
+      }
+    }
+  },
+  "trailStory": "Kisah Jalur",
+  "trailStops": "Titik Singgah",
+  "trailShowOnMap": "Lihat Jalur di Peta",
+  "searchPlaceholder": "Cari lokasi...",
+  "searchNotFound": "Lokasi tidak ditemukan",
+  "detailMakePlan": "Buat Rencana Kunjungan",
+  "detailAskLoka": "Tanya Loka tentang tempat ini",
+  "detailAbout": "Tentang",
+  "detailHistory": "Sejarah",
+  "detailHistoryEmpty": "Kisah sejarah tempat ini belum tersedia.",
+  "detailEtiquette": "Etika Berkunjung",
+  "detailAddress": "Alamat",
+  "detailReviews": "Ulasan",
+  "detailReviewsEmpty": "Belum ada ulasan. Jadilah yang pertama berbagi cerita.",
+  "detailReviewCount": "{count} ulasan",
+  "@detailReviewCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "detailNotRated": "Belum dinilai",
+  "detailDistance": "Jarak",
+  "detailCategory": "Kategori",
+  "detailVisitor": "Pengunjung",
+  "detailRoute": "Lihat Rute",
+  "detailModeCar": "Mobil",
+  "detailModeWalk": "Jalan",
+  "detailModeBike": "Sepeda",
+  "detailRating": "Rating",
+  "detailNoRating": "Belum ada rating",
+  "detailDescription": "Deskripsi",
+  "detailLatestReviews": "Ulasan Terbaru",
+  "detailFullHistory": "Sejarah & Detail Lengkap",
+  "detailReadMore": "Baca selengkapnya",
+  "planTitle": "Rencana Kunjungan",
+  "planDeleteTitle": "Hapus rencana",
+  "planDeleteMessage": "Rencana kunjungan ini akan dihapus dari akunmu.",
+  "planDelete": "Hapus",
+  "planDeleteFailed": "Gagal menghapus: {error}",
+  "@planDeleteFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "planPeopleCount": "{count} orang",
+  "@planPeopleCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "planDaysCount": "{count} hari",
+  "@planDaysCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "planMeta": "{people}  •  {days}  •  budget {budget}",
+  "@planMeta": {
+    "placeholders": {
+      "people": {
+        "type": "String"
+      },
+      "days": {
+        "type": "String"
+      },
+      "budget": {
+        "type": "String"
+      }
+    }
+  },
+  "planSummary": "Ringkasan",
+  "planCosts": "Rincian biaya",
+  "planTotalEstimate": "Total perkiraan",
+  "planSchedule": "Jadwal",
+  "planDay": "Hari {day}",
+  "@planDay": {
+    "placeholders": {
+      "day": {
+        "type": "int"
+      }
+    }
+  },
+  "planTips": "Tips",
+  "planDisclaimer": "Rencana dan biaya disusun oleh AI sebagai perkiraan. Cek kembali harga, jam buka, dan jadwal upacara sebelum berangkat.",
+  "planSavedMessage": "Rencana disimpan. Lihat di Tersimpan, tab Rencana.",
+  "planSaveFailed": "Gagal menyimpan: {error}",
+  "@planSaveFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "planSavedLabel": "Rencana tersimpan",
+  "planSaveButton": "Simpan Rencana",
+  "planWithinBudget": "Sesuai budget",
+  "planOverBudget": "Melebihi budget",
+  "planEstimatedTotal": "Perkiraan total",
+  "planPerPerson": "Per orang",
+  "planBudgetLeft": "Sisa budget",
+  "planShortfall": "Kekurangan",
+  "planBuilding": "Menyusun rencanamu",
+  "planBuildingBody": "AI sedang menghitung biaya untuk {people}, {days}, dengan budget {budget}. Biasanya butuh beberapa detik.",
+  "@planBuildingBody": {
+    "placeholders": {
+      "people": {
+        "type": "String"
+      },
+      "days": {
+        "type": "String"
+      },
+      "budget": {
+        "type": "String"
+      }
+    }
+  },
+  "planBudgetLabel": "Budget total rombongan",
+  "planPeople": "Jumlah orang",
+  "planDuration": "Lama kunjungan",
+  "planPerPersonApprox": "Sekitar {amount} per orang",
+  "@planPerPersonApprox": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "planNotesLabel": "Catatan (opsional)",
+  "planNotesHint": "Misal: bawa anak kecil, naik motor, mau kuliner halal",
+  "planCreate": "Buat Rencana",
+  "planSheetDisclaimer": "Rencana dan biaya adalah perkiraan dari AI. Harga sebenarnya bisa berbeda.",
+  "planDecrease": "Kurangi",
+  "planIncrease": "Tambah",
+  "planErrBudget": "Budget minimal {amount}",
+  "@planErrBudget": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "planErrPeople": "Jumlah orang harus 1 sampai {max}",
+  "@planErrPeople": {
+    "placeholders": {
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "planErrDays": "Lama kunjungan harus 1 sampai {max} hari",
+  "@planErrDays": {
+    "placeholders": {
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "planErrNotes": "Catatan maksimal {max} karakter",
+  "@planErrNotes": {
+    "placeholders": {
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "audioTitle": "Pemandu Audio",
+  "audioPart": "Bagian {index} dari {total}",
+  "@audioPart": {
+    "placeholders": {
+      "index": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "audioListen": "Dengarkan kisah tempat ini",
+  "audioStop": "Berhenti",
+  "audioSpeed": "Kecepatan",
+  "audioSpeedSlow": "Lambat",
+  "audioSpeedNormal": "Normal",
+  "audioSpeedFast": "Cepat",
+  "audioNoVoice": "Suara bahasa Indonesia belum terpasang di perangkat, jadi narasi memakai suara bawaan. Pasang di pengaturan Text-to-Speech.",
+  "reviewWrite": "Tulis Ulasan",
+  "reviewPickRating": "Pilih rating",
+  "reviewVeryBad": "Sangat Buruk",
+  "reviewBad": "Buruk",
+  "reviewOkay": "Cukup",
+  "reviewGood": "Bagus",
+  "reviewVeryGood": "Sangat Bagus",
+  "reviewRating": "Rating",
+  "reviewComment": "Komentar (opsional)",
+  "reviewHint": "Tulis pengalamanmu di sini...",
+  "bookmarkSaved": "{name} disimpan",
+  "@bookmarkSaved": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "bookmarkRemoved": "{name} dihapus dari simpanan",
+  "@bookmarkRemoved": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "bookmarkFailed": "Gagal menyimpan: {error}",
+  "@bookmarkFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "dialogOk": "OK",
+  "savedTitle": "Tersimpan",
+  "savedSubtitle": "{places} destinasi, {plans} rencana",
+  "@savedSubtitle": {
+    "placeholders": {
+      "places": {
+        "type": "int"
+      },
+      "plans": {
+        "type": "int"
+      }
+    }
+  },
+  "savedSubtitleSignedOut": "Simpanan tersimpan di akunmu",
+  "savedTabPlaces": "Tempat",
+  "savedTabPlans": "Rencana",
+  "savedPlacesSignInTitle": "Masuk untuk melihat simpanan",
+  "savedPlacesFailed": "Simpanan gagal dimuat",
+  "savedPlacesEmpty": "Belum ada destinasi tersimpan",
+  "savedPlacesSignInBody": "Destinasi yang kamu simpan disimpan di akunmu, jadi tetap ada saat kamu ganti perangkat.",
+  "savedPullToRetry": "{error} Tarik ke bawah untuk mencoba lagi.",
+  "@savedPullToRetry": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "savedPlacesEmptyBody": "Ketuk ikon simpan pada destinasi yang ingin kamu kunjungi nanti.",
+  "savedRemove": "Hapus dari simpanan",
+  "savedPlansSignInTitle": "Masuk untuk melihat rencana",
+  "savedPlansFailed": "Rencana gagal dimuat",
+  "savedPlansEmpty": "Belum ada rencana tersimpan",
+  "savedPlansSignInBody": "Rencana kunjungan yang kamu simpan tersimpan di akunmu.",
+  "savedPlansEmptyBody": "Buka sebuah tempat, buat Rencana Kunjungan, lalu ketuk Simpan Rencana.",
+  "savedPlanMeta": "{people} orang  •  {days} hari  •  {total}",
+  "@savedPlanMeta": {
+    "placeholders": {
+      "people": {
+        "type": "int"
+      },
+      "days": {
+        "type": "int"
+      },
+      "total": {
+        "type": "String"
+      }
+    }
+  },
+  "savedWithinBudget": "Sesuai budget",
+  "savedOverBudget": "Melebihi budget",
+  "savedExploreHome": "Jelajahi Beranda",
+  "savedSignInPlaceRequired": "Masuk dulu untuk menyimpan destinasi",
+  "savedSignInPlanRequired": "Masuk dulu untuk menyimpan rencana",
+  "recentTitle": "Riwayat",
+  "recentSubtitle": "Destinasi yang terakhir kamu lihat",
+  "recentEmptyTitle": "Riwayat masih kosong",
+  "recentEmptyBody": "Destinasi yang kamu buka akan muncul di sini.",
+  "recentClear": "Hapus riwayat",
+  "recentClearMessage": "Semua riwayat destinasi akan dihapus.",
+  "recentClearConfirm": "Hapus",
+  "profileGuestName": "Penjelajah Tamu",
+  "profileGuestEmail": "Masuk untuk menulis ulasan",
+  "profileRecent": "Terakhir Dilihat",
+  "profileOpenMap": "Buka Peta",
+  "profileShowIntro": "Lihat Pengenalan Aplikasi",
+  "profileAbout": "Tentang LokaNusantara",
+  "profileAboutBody": "Peta budaya Nusantara: tradisi, rumah ibadah, dan kuliner khas, dimulai dari Bali.",
+  "profileIntroOnLaunch": "Tampilkan pengenalan saat dibuka",
+  "profileIntroOnLaunchDone": "Pengenalan akan tampil saat aplikasi dibuka lagi",
+  "profileSignOut": "Keluar",
+  "profileSignOutMessage": "Yakin ingin keluar dari akunmu?",
+  "profileSignOutConfirm": "Ya, Keluar",
+  "profilePhoto": "Foto profil",
+  "profileAuthTitle": "Simpan dan bagikan perjalananmu",
+  "profileAuthBody": "Masuk dengan Google untuk menyimpan destinasi dan menulis ulasan.",
+  "profileReminders": "Pengingat agenda budaya",
+  "profileRemindersBlocked": "Notifikasi diblokir. Izinkan di pengaturan HP.",
+  "profileRemindersHint": "Sehari sebelum dan pada hari agenda",
+  "authSignIn": "Masuk",
+  "authFailedTitle": "Gagal Masuk",
+  "authErrorConfig": "Login Google belum dikonfigurasi",
+  "authErrorFailed": "Login Google gagal",
+  "authLater": "Nanti saja",
+  "authTagline": "Jelajahi tradisi, rumah ibadah, dan kisah\ndi setiap sudut Nusantara",
+  "authTitle": "Masuk untuk mulai menjelajah",
+  "authSubtitle": "Satu ketukan dengan akun Google, tanpa perlu membuat password baru.",
+  "authBenefitSaveTitle": "Simpan destinasi favorit",
+  "authBenefitSaveBody": "Kumpulkan tempat yang ingin kamu kunjungi.",
+  "authBenefitReviewTitle": "Tulis ulasan",
+  "authBenefitReviewBody": "Bagikan pengalamanmu untuk penjelajah lain.",
+  "authBenefitSyncTitle": "Tersimpan di akunmu",
+  "authBenefitSyncBody": "Simpananmu tetap ada saat ganti perangkat.",
+  "authPrivacy": "Kami hanya memakai nama, email, dan foto profil dari akun Google kamu.",
+  "authContinueGoogle": "Lanjutkan dengan Google",
+  "onbWelcomeTitle": "Selamat Datang di LokaNusantara",
+  "onbWelcomeBody": "Peta budaya Nusantara dalam genggamanmu. Temukan tradisi, rumah ibadah, dan kuliner khas dalam satu aplikasi.",
+  "onbTraditionTitle": "Tradisi & Rumah Ibadah",
+  "onbTraditionBody": "Kunjungi desa adat, pura, masjid, gereja, vihara, dan klenteng, lengkap dengan kisah sejarah dan etika berkunjungnya.",
+  "onbCulinaryTitle": "Cita Rasa Nusantara",
+  "onbCulinaryBody": "Cicipi kuliner legendaris dari warung turun-temurun, dari babi guling hingga ayam betutu.",
+  "onbRouteTitle": "Simpan & Temukan Rute",
+  "onbRouteBody": "Simpan destinasi favorit, lihat kembali riwayat jelajahmu, dan dapatkan rute langsung ke lokasi.",
+  "onbSkip": "Lewati",
+  "onbStart": "Mulai Jelajah",
+  "tanyaSuggest1": "Apa itu Hari Raya Galungan?",
+  "tanyaSuggest2": "Bagaimana etika masuk pura?",
+  "tanyaSuggest3": "Di mana kampung Muslim tertua di Bali?",
+  "tanyaSuggest4": "Kuliner khas apa yang wajib dicoba di Gianyar?",
+  "tanyaSuggest5": "Desa adat mana yang menjaga tradisi Bali Aga?",
+  "tanyaSuggest6": "Ada upacara apa dalam waktu dekat?",
+  "tanyaAboutPlace": "Ceritakan tentang {name}: sejarah singkatnya, apa yang menarik untuk dilihat, dan etika saat berkunjung.",
+  "@tanyaAboutPlace": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "tanyaNewChat": "Percakapan baru",
+  "tanyaNewChatMessage": "Percakapan saat ini akan dihapus.",
+  "tanyaNewChatConfirm": "Mulai baru",
+  "tanyaSubtitle": "Pemandu budaya berbasis AI",
+  "tanyaGreeting": "Om Swastyastu!",
+  "tanyaIntro": "Aku Loka, pemandu budayamu. Tanyakan tentang tradisi, rumah ibadah, kuliner, atau agenda upacara di Bali. Jawabanku berasal dari data LokaNusantara.",
+  "tanyaTryAsking": "Coba tanyakan",
+  "tanyaTyping": "Loka sedang mencari jawaban",
+  "tanyaHint": "Tanyakan tentang budaya Bali...",
+  "tanyaDisclaimer": "Jawaban AI bisa keliru. Cek kembali informasi penting ke sumber setempat.",
+  "agendaTitle": "Tradisi & Kebudayaan",
+  "agendaSubtitle": "Hari raya, upacara, dan festival di Bali",
+  "agendaAll": "Semua",
+  "agendaEmptyCategory": "Belum ada agenda untuk kategori ini.",
+  "agendaSoon": "Segera",
+  "agendaEstimate": "Perkiraan",
+  "agendaEstimateNote": "Tanggal ini perkiraan. Hari raya yang mengikuti kalender bulan atau keputusan panitia bisa bergeser, cek pengumuman resmi sebelum berkunjung.",
+  "agendaViewOnMap": "Lihat di Peta",
+  "agendaLocationDetail": "Detail Lokasi",
+  "reminderTomorrow": "Besok: {name}",
+  "@reminderTomorrow": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "reminderToday": "Hari ini: {name}",
+  "@reminderToday": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "reminderEstimate": "Tanggal perkiraan, cek pengumuman setempat.",
+  "reminderDefaultPlace": "Agenda budaya di Bali.",
+  "reminderChannelName": "Pengingat agenda budaya",
+  "reminderChannelDescription": "Pengingat sehari sebelum dan pada hari agenda budaya berlangsung.",
+  "navFailed": "Gagal",
+  "navReviewSaveFailed": "Gagal menyimpan ulasan",
+  "langNameId": "Indonesia",
+  "langNameEn": "Inggris",
+  "langNameKo": "Korea",
+  "langNameJa": "Jepang",
+  "langNameZh": "Mandarin"
+}
